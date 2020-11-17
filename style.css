@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+.playground{
+    display: flex;
+    border: 1px solid black;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+}
